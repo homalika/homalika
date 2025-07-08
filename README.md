@@ -1,5 +1,5 @@
 <h1 align="center"> Hello! I'm Homalika Potnuru </h1>  
-<h3 align="center"> A Pre-Final Year Computer Science Undergrad </h3>  
+<h3 align="center"> A Final Year Computer Science Undergrad </h3>  
 
 - 💻 *About Me*:  
   A passionate learner exploring the vast world of technology and development. Always curious to explore new domains and innovate!  
