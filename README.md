@@ -16,6 +16,8 @@
 
 - ⚡ *Fun Fact*:
 
+  CAPTCHA means… “Completely Automated Public Turing Test to tell Computers and Humans Apart”
+
 - 🌟 *Skills*:  
   - Programming: C++, Python  
   - Web Development: HTML, CSS, JavaScript
