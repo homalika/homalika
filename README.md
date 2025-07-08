@@ -1,11 +1,11 @@
-<h1 align="center"> Hello! I'm Potnuru Homalika </h1>  
+<h1 align="center"> Hello! I'm Homalika Potnuru </h1>  
 <h3 align="center"> A Pre-Final Year Computer Science Undergrad </h3>  
 
 - 💻 *About Me*:  
   A passionate learner exploring the vast world of technology and development. Always curious to explore new domains and innovate!  
 
 - 🎯 *Interests*:  
-  Web Development, Competitive Programming, Data science 
+  Web Development, Competitive Programming, Data science
 
 - 📫 *Let's Connect*:  
   - Email: [potnuruhomalika@gmail.com](mailto:potnuruhomalika@gmail.com)  
@@ -17,9 +17,9 @@
 - ⚡ *Fun Fact*:
 
 - 🌟 *Skills*:  
-  - Programming: C++, C, Python  
+  - Programming: C++, Python  
   - Web Development: HTML, CSS, JavaScript
-  - Tools: Git, Visual Studio Code
+  - Tools: Git, Github, Visual Studio Code
   - Others: Problem-Solving, Team Collaboration
 
 - 📚 *Hobbies*:  
